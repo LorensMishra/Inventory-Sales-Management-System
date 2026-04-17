@@ -1,5 +1,7 @@
 # Inventory & Sales Management System using MySQL
 
+<img width="1421" height="468" alt="image" src="https://github.com/user-attachments/assets/f67a5e77-d412-409e-b65a-1cb484a4b0ba" />
+
 ## 📌 Project Overview
 
 The **Inventory & Sales Management System** is a database-driven project built using **MySQL**. It is designed to help small and medium-sized businesses manage their inventory, customers, suppliers, orders, and payments efficiently. This project demonstrates strong concepts of **relational database design**, **SQL querying**, and **data integrity**.
